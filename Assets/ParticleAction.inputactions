@@ -1,0 +1,35 @@
+{
+    "version": 1,
+    "name": "ParticleAction",
+    "maps": [
+        {
+            "name": "Particle",
+            "id": "81cd5982-6d73-4aff-a5af-18e52a70dc85",
+            "actions": [
+                {
+                    "name": "Activate",
+                    "type": "Button",
+                    "id": "e8ea0dc5-5b3c-4366-baf7-df1409fdab22",
+                    "expectedControlType": "",
+                    "processors": "",
+                    "interactions": "",
+                    "initialStateCheck": false
+                }
+            ],
+            "bindings": [
+                {
+                    "name": "",
+                    "id": "655024f0-7195-4260-ad2d-884cf74c6f93",
+                    "path": "<Keyboard>/space",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "Activate",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                }
+            ]
+        }
+    ],
+    "controlSchemes": []
+}

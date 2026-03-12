@@ -103,3 +103,10 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: fdb704fefb2547f4596b817a791cde43, type: 3}
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::Particulas
+  v0X: 5
+  v0Y: 5
+  angulo0: 45
+  tM: 3
+  tA: 5
+  tT: 0
+  g: 9.8
